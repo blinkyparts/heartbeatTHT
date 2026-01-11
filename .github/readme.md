@@ -2,12 +2,12 @@
 
 ---
 
-> ⚠️ **Mirror-Hinweis**
+> **Mirror-Hinweis**
 >
 > Dieses GitHub-Repository wird **automatisch gespiegelt**.
 >
-> 🔗 **Hauptrepository:**  
-> 👉 https://codeberg.org/blinkyparts_com/HeartbeatTHT
+> **Hauptrepository:**  
+> https://codeberg.org/blinkyparts_com/HeartbeatTHT
 >
 > Entwicklung, Issues und Pull Requests bitte **ausschließlich auf Codeberg**.
 
