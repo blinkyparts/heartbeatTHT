@@ -1,10 +1,21 @@
 # Heartbeat THT
 
-This Repository is just a Mirror!
+---
+
+> ⚠️ **Mirror-Hinweis**
+>
+> Dieses GitHub-Repository wird **automatisch gespiegelt**.
+>
+> 🔗 **Hauptrepository:**  
+> 👉 https://codeberg.org/blinkyparts_com/HeartbeatTHT
+>
+> Entwicklung, Issues und Pull Requests bitte **ausschließlich auf Codeberg**.
+
+---
 
 Eine einfache Schaltung die eine LED sehr lange zum pulsieren bringt. Mit 3V sieht es sehr witzig aus, als ob die LED aus sich heraus platzen würde.
 
-![Platine Vorderseite](images/front.png) ![Platine Rückseite](images/back.png)
+![Platine Vorderseite](../images/front.png) ![Platine Rückseite](../images/back.png)
 
 ## Schaltungsidee
 - https://www.maltepoeggel.de/?site=dauerblitzer
