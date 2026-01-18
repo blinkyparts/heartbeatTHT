@@ -1,7 +1,5 @@
 # Heartbeat THT
 
----
-
 > [!NOTE]  
 > Dieses GitHub-Repository wird **automatisch gespiegelt**.
 >
@@ -9,8 +7,6 @@
 > https://codeberg.org/blinkyparts/HeartbeatTHT
 >
 > Entwicklung, Issues und Pull Requests bitte **ausschließlich auf Codeberg**.
-
----
 
 Eine einfache Schaltung die eine LED sehr lange zum pulsieren bringt. Mit 3V sieht es sehr witzig aus, als ob die LED aus sich heraus platzen würde.
 
