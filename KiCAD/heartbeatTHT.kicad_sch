@@ -2438,7 +2438,7 @@
 				)
 			)
 		)
-		(property "Value" "50nF"
+		(property "Value" "100nF"
 			(at 158.75 106.68 90)
 			(effects
 				(font
