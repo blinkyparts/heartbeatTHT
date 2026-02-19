@@ -16,6 +16,9 @@ Eine einfache Schaltung die eine LED sehr lange zum pulsieren bringt. Mit 3V sie
 - https://www.maltepoeggel.de/?site=dauerblitzer
 - Original von: https://www.b-kainka.de/bastel59.htm
 
+## Bausatz kaufen
+Natürlich könnt ihr auch wieder einen Bausatz bei uns im Onlineshop kaufen. Im Bausatz sind alle Bauteile und die Platine enthalten zum selbst löten :) [https://shop.blinkyparts.com/de/Heartbeat-Loetbausatz-Pulsierendes-LED-Herz-zum-Selbstloeten/blink23185](https://shop.blinkyparts.com/de/Heartbeat-Loetbausatz-Pulsierendes-LED-Herz-zum-Selbstloeten/blink23185)
+
 ## Platinendesign
 - Originaldesign von: https://thenounproject.com/icon/heart-8097843/
 - Created by ColorCombo from Noun Project
